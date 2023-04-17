@@ -41,7 +41,7 @@ html img{
 }
 
 .welcome {
-    background: url(/img/welcome-bg.png);
+    background: url(./img/welcome-bg.png);
     min-height: 800px;
     background-repeat: no-repeat;
     background-size: cover;
